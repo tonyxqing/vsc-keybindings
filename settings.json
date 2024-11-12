@@ -1,0 +1,60 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.renderWhitespace": "boundary",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "svelte.enable-ts-plugin": true,
+    "git.autofetch": true,
+    "codium.codeCompletion.enable": false,
+    "workbench.colorTheme": "Huacat Pink Dark",
+    "githubPullRequests.pullBranch": "never",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "vim.useCtrlKeys": true,
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-d>"],
+            "after": ["<C-d>", "z", "z"]
+        },
+        {
+            "before": ["<C-u>"],
+            "after": ["<C-u>", "z", "z"]
+        }
+    ],
+    "files.exclude": {
+        "**/.git": false
+    },
+    "git.confirmSync": false,
+    "rust-analyzer.cargo.buildScripts.enable": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "jenkins.url": "http://bananacreampi:11ead5814671b7a837dcba0914ad8d1de1@bananacreampi.local:8080",
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.renderSideBySide": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vscode_custom_css.imports": [],
+    "security.promptForLocalFileProtocolHandling": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.simpleDialog.enable": true,
+    "vim.foldfix": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "codium.enable": false,
+    "editor.accessibilitySupport": "off",
+    "simpleBrowser.focusLockIndicator.enabled": false,
+    "editor.minimap.enabled": false
+}
